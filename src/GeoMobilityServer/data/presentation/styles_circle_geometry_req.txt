@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XLS version="1.0" xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml">
+	<RequestHeader srsName="#4326" clientName="" clientPassword=""/>
+				<Request methodName="MapRequest" version="" requestID="">
+					<PortrayMapRequest>
+						<Output width="400" height="400" format="png8">
+							<BBoxContext>
+								<gml:pos>-117.25 33.98</gml:pos>
+								<gml:pos>-117.10 34.13</gml:pos>
+							</BBoxContext>
+						</Output>
+						<Overlay>
+							<Position>
+								<gml:CircleByCenterPoint numArc="1">
+									<gml:pos>-117.174 34.055</gml:pos>
+									<gml:radius uom="M">2000</gml:radius>
+								</gml:CircleByCenterPoint>
+							</Position>
+							<Style>
+								<StyleContent>boundaryColor=255,0,0;fillColor=255,0,0;fillTransparency=0.3;thickness=3;overlapLabel=true;</StyleContent>
+							</Style>
+						</Overlay>
+					</PortrayMapRequest>
+				</Request>
+</XLS>

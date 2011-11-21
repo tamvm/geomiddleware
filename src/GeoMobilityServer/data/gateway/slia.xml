@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slia ver="3.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.talentmind.edu.vn/SVC_RESULT.xsd">
+	<pos>
+		<msid>461011334411</msid>
+		<pd>
+			<time utc_off="+0200">20020623134453</time>
+			<shape>
+				<CircularArea srsName="www.epsg.org#4004">
+					<coord>
+						<X>301628.312</X>
+						<Y>451533.431</Y>
+					</coord>
+					<radius>240</radius>
+				</CircularArea>
+			</shape>
+		</pd>
+	</pos>
+</slia> 

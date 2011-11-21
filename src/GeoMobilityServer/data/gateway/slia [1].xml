@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slia ver="3.0.0">
+	<pos>
+               <msid enc="ASC" type="MSISDN">461018765711</msid>
+               <pd>
+                    <time utc_off="-0200"><?mlp-magic Time(00000000000000)?></time>
+                    <shape>
+                         <CircularArea srsName="www.elvior.ee#4004">
+                              <coord>
+                                   <X>301628.312</X>
+                                   <Y>451533.431</Y>
+                              </coord>
+                              <radius>240</radius>
+                         </CircularArea>
+                    </shape>
+               </pd>
+          </pos>
+          <pos>
+               <msid enc="ASC" type="MSISDN">461018765712</msid>
+               <pd>
+                    <time utc_off="-0200"><?mlp-magic Time(00000000000000)?></time>
+                    <shape>
+                         <CircularArea srsName="www.elvior.ee#4004">
+                              <coord>
+                                   <X>301628.312</X>
+                                   <Y>451533.431</Y>
+                              </coord>
+                              <radius>240</radius>
+                         </CircularArea>
+                    </shape>
+               </pd>
+          </pos>
+</slia>

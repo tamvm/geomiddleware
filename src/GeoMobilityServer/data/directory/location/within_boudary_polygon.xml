@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XLS xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+ version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/xls http://schemas.opengis.net/ols/1.2/DirectoryService.xsd">
+    
+    <Request maximumResponses="5" methodName="DirectoryRequest"
+     requestID="" version="1.1">
+        
+        <DirectoryRequest>
+            <POILocation>
+                <WithinBoundary>
+                    <AOI>
+                        <gml:Polygon>
+                            
+                            <gml:interior>
+                                <gml:LinearRing gid="string" gml:id="AAAAD">
+                                    <gml:pos dimension="2">106.667417 10.749425</gml:pos>
+                                    <gml:pos dimension="2">106.667417 10.750553</gml:pos>
+                                    <gml:pos dimension="2">106.664488 10.750648</gml:pos>
+                                    <gml:pos dimension="2">106.664091 10.748593</gml:pos>
+                                </gml:LinearRing>
+                            </gml:interior>
+                            
+                        </gml:Polygon>
+                    </AOI>
+                </WithinBoundary>
+            </POILocation>
+            <POIProperties directoryType="Yellow Pages">
+                <POIProperty name="NAICS_type" value="Hotel"/>
+                <POIProperty name="NAICS_subType" value="plaza"/>
+            </POIProperties>
+        </DirectoryRequest>
+    </Request>
+    
+</XLS>

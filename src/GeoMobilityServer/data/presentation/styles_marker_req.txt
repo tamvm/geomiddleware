@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XLS version="1.1" xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls C:\work\Openls\schema\schema(1.1)\PresentationService.xsd">
+	<RequestHeader srsName="#4326" clientName="Tam" clientPassword=""/>
+				<Request methodName="MapRequest" version="1.1" requestID="">
+					<PortrayMapRequest>
+						<Output width="400" height="400" format="png8">
+							<BBoxContext>
+								<gml:pos>-117.25 33.98</gml:pos>
+								<gml:pos>-117.10 34.13</gml:pos>
+							</BBoxContext>
+						</Output>
+						<Overlay>
+							<Position>
+								<gml:Point>
+									<gml:pos>-117.195533 34.05705</gml:pos>
+								</gml:Point>
+							</Position>
+							<Style>
+								<StyleContent>iconSource=ArcWeb:ESRI.Simple.Icons.square;color=255,0,0;size=16;label=My
+									Label;font=Arial;fontColor=0,0,0;fontSize=18;fontStyle=bold;overlapLabel=false;antialiasing=true;
+									glowing=255,0,0;outlineColor=255,255,255</StyleContent>
+							</Style>
+						</Overlay>
+					</PortrayMapRequest>
+				</Request>
+</XLS>

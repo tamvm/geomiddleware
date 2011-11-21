@@ -1,0 +1,38 @@
+ 
+<slir ver="3.0.0" res_type="SYNC"> 
+  <msids> 
+    <msid type="IPV4">93.10.0.250</msid> 
+    <msid_range> 
+      <start_msid> 
+        <msid>461018765710</msid> 
+      </start_msid> 
+      <stop_msid> 
+        <msid>461018765712</msid> 
+      </stop_msid> 
+    </msid_range> 
+    <msid type="ASID">441728922342</msid> 
+    <msid_range> 
+      <start_msid> 
+        <msid>461018765720</msid> 
+      </start_msid> 
+      <stop_msid> 
+        <msid>461018765728</msid> 
+      </stop_msid> 
+    </msid_range> 
+  </msids> 
+  <eqop> 
+    <resp_req type="LOW_DELAY" /> 
+    <hor_acc>1000</hor_acc> 
+  </eqop> 
+  <geo_info> 
+    <CoordinateReferenceSystem> 
+      <Identifier> 
+        <code>4004</code> 
+        <codeSpace>EPSG</codeSpace> 
+        <edition>6.1</edition> 
+      </Identifier> 
+    </CoordinateReferenceSystem> 
+  </geo_info> 
+  <loc_type type="CURRENT_OR_LAST" /> 
+  <prio type="HIGH" /> 
+</slir>

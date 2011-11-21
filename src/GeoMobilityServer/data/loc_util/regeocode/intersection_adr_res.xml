@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XLS xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls LocationUtilityService.xsd"
+	version="1.0">
+	<ResponseHeader />
+	<Response version="1.0" requestID="">
+		<ReverseGeocodeResponse>
+			<ReverseGeocodedLocation>
+				<gml:Point>
+					<gml:pos>-71.458961673001 41.831760735431</gml:pos>
+				</gml:Point>
+				<Address countryCode="US">
+					<StreetIntersection>
+						<Street>Hillcrest Ave</Street>
+						<IntersectingStreet>Freedom Rd</IntersectingStreet>
+					</StreetIntersection>
+					<Place type="Municipality">Providence</Place>
+					<Place type="CountrySubdivision">RI</Place>
+					<Place type="CountrySecondarySubdivision">02909</Place>
+				</Address>
+			</ReverseGeocodedLocation>
+		</ReverseGeocodeResponse>
+	</Response>
+</XLS>

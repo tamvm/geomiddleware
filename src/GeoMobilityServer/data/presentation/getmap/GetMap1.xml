@@ -1,0 +1,73 @@
+<wms:GetMap service="WMS" version="1.3.0" xmlns:gml="http://www.opengis.net/gml"
+   xmlns:ows="http://www.opengis.net/ows" xmlns:wms="http://www.opengis.net/ows"
+   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.opengis.net/ows
+   http://giswebservices.massgis.state.ma.us/geoserver/schemas/sld/GetMap.xsd">
+   <sld:StyledLayerDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.opengis.net/sld
+      http://giswebservices.massgis.state.ma.us/geoserver/schemas/sld/StyledLayerDescriptor.xsd"
+      xmlns:sld="http://www.opengis.net/sld" version="1.0.0">
+     
+      <sld:UserLayer>
+         <sld:Name>Inline</sld:Name>
+         <sld:InlineFeature>
+            <sld:FeatureCollection>
+               <sld:featureMember>
+                  <POI>
+                     <pointProperty>
+                        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+                           <gml:coord>
+                              <gml:X>102.233333</gml:X>
+                              <gml:Y>22.283333</gml:Y>
+                           </gml:coord>
+                        </gml:Point>
+                     </pointProperty>
+                  </POI>
+               </sld:featureMember>
+            </sld:FeatureCollection>
+         </sld:InlineFeature>
+         <sld:LayerFeatureConstraints>
+            <sld:FeatureTypeConstraint/>
+         </sld:LayerFeatureConstraints>
+		 
+         <sld:UserStyle>
+            <sld:Name>test style</sld:Name>
+            <sld:FeatureTypeStyle>
+               <sld:Rule>
+                  <sld:PointSymbolizer>
+                     <sld:Graphic>
+                        <sld:Mark>
+                           <sld:WellKnownName>CIRCLE</sld:WellKnownName>
+                           <sld:Fill>
+                              <sld:CssParameter name="fill">#FF0000</sld:CssParameter>
+                           </sld:Fill>
+                        </sld:Mark>
+                        <sld:Size>10</sld:Size>
+                     </sld:Graphic>
+                  </sld:PointSymbolizer>
+               </sld:Rule>
+            </sld:FeatureTypeStyle>
+         </sld:UserStyle>
+      </sld:UserLayer>
+   </sld:StyledLayerDescriptor>
+   <wms:BoundingBox srsName="EPSG#4326">
+      <gml:coord>
+         <gml:X>102</gml:X>
+         <gml:Y>8</gml:Y>
+      </gml:coord>
+      <gml:coord>
+         <gml:X>109</gml:X>
+         <gml:Y>23</gml:Y>
+      </gml:coord>
+   </wms:BoundingBox>
+   <wms:Output>
+      <wms:Format>image/png</wms:Format>
+      <wms:Transparent>false</wms:Transparent>
+      <wms:BGcolor>0xFFFFFF</wms:BGcolor>
+      <wms:Size>
+         <wms:Width>600</wms:Width>
+         <wms:Height>300</wms:Height>
+      </wms:Size>
+   </wms:Output>
+   <wms:Exceptions>application/vnd.ogc.se+inimage</wms:Exceptions>
+</wms:GetMap>

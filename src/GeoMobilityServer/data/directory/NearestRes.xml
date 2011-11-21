@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<XLS xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls DirectoryService.xsd"
+	version="1.1">
+
+	<ResponseHeader />
+
+	<Response version="1.1" requestID="">
+
+		<DirectoryResponse>
+
+			<POIContext>
+
+				<POI POIName="NEW TRADITIONS ALTERNATIVE" ID="-1">
+
+					<gml:Point>
+
+						<gml:pos>-122.4503 37.7743</gml:pos>
+
+					</gml:Point>
+
+				</POI>
+
+				<Distance value="0.18" />
+
+			</POIContext>
+
+			<POIContext>
+
+				<POI POIName="FRENCH SCHOOL-LYCEE FRANCAIS" ID="-1">
+
+					<gml:Point>
+
+						<gml:pos>-122.4467 37.768</gml:pos>
+
+					</gml:Point>
+
+				</POI>
+
+				<Distance value="0.5" />
+
+			</POIContext>
+
+			<POIContext>
+
+				<POI POIName="SAN FRANCISCO DAY SCHOOL" ID="-1">
+
+					<gml:Point>
+
+						<gml:pos>-122.4468 37.7781</gml:pos>
+
+					</gml:Point>
+
+				</POI>
+
+				<Distance value="0.54" />
+
+			</POIContext>
+
+			<POIContext>
+
+				<POI POIName="WILLIAM R DE AVILA ELEM SCHOOL" ID="-1">
+
+					<gml:Point>
+
+						<gml:pos>-122.4445 37.7702</gml:pos>
+
+					</gml:Point>
+
+				</POI>
+
+				<Distance value="0.57" />
+
+			</POIContext>
+
+			<POIContext>
+
+				<POI POIName="I HAVE A DREAM FOUNDATION" ID="-1">
+
+					<gml:Point>
+
+						<gml:pos>-122.4445 37.7702</gml:pos>
+
+					</gml:Point>
+
+				</POI>
+
+				<Distance value="0.57" />
+
+			</POIContext>
+
+		</DirectoryResponse>
+
+	</Response>
+
+</XLS>

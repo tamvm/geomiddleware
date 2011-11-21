@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XLS xmlns="http://www.opengis.net/xls" xmlns:xls="http://www.opengis.net/xls"
+	xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls RouteService.xsd"
+	xsi:lang="sv" version="1.1">
+	<ResponseHeader />
+	<Response version="" requestID="">
+		<DetermineRouteResponse>
+			<RouteSummary>
+				<TotalTime>PT0H5M</TotalTime>
+				<TotalDistance value="2.18" />
+				<BoundingBox>
+					<gml:pos>18.039321 59.326739</gml:pos>
+					<gml:pos>18.061181 59.340323</gml:pos>
+				</BoundingBox>
+			</RouteSummary>
+			<RouteInstructionsList xls:lang="sv">
+				<RouteInstruction duration="PT0H0M" description="">
+					<Instruction>Starta Route Stop 1.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Kör västerut på Observatoriegatan.</Instruction>
+					<distance value="0.03" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng skarpt vänster på Västmannagatan.</Instruction>
+					<distance value="0.37" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng höger.</Instruction>
+					<distance value="0.02" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng höger på Barnhusgatan.</Instruction>
+					<distance value="0.02" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Rakt fram på Torsgatan.</Instruction>
+					<distance value="0.06" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng vänster på Östra Järnvägsgatan.</Instruction>
+					<distance value="0.02" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Svdng vänster på Olof Palmes gata.</Instruction>
+					<distance value="0.07" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng höger på Vasagatan.</Instruction>
+					<distance value="0.37" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="">
+					<Instruction>Anländ: Route Stop 2.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="">
+					<Instruction>Starta Route Stop 2.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Fortsätt sydöst på Vasagatan.</Instruction>
+					<distance value="0.1" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng skarpt höger på Tegelbacken.</Instruction>
+					<distance value="0.05" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Rakt fram på Klarastrandsleden.</Instruction>
+					<distance value="0.06" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Rakt fram på Stadshusbron.</Instruction>
+					<distance value="0.1" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Rakt fram på Hantverkargatan.</Instruction>
+					<distance value="0.1" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Rakt fram på Ragnar Östbergs plan.</Instruction>
+					<distance value="0.05" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Svdng höger på Norr mälarstrand.</Instruction>
+					<distance value="0.39" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng skarpt höger på Kungsholmstorg.</Instruction>
+					<distance value="0.16" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng vänster på Hantverkargatan.</Instruction>
+					<distance value="0.14" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng skarpt höger på Pilgatan.</Instruction>
+					<distance value="0.06" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="">
+					<Instruction>Sväng höger på Bergsgatan.</Instruction>
+					<distance value="0.01" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="">
+					<Instruction>Anländ: Route Stop 3.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+			</RouteInstructionsList>
+			<RouteMap description="">
+				<Content format="png8" width="400" height="400">
+					<URL>http://www1.arcwebservices.com/out/maps/TA_Streets_EU_nt_mangomap1818245904.png</URL>
+				</Content>
+				<BBoxContext>
+					<gml:pos>18.039321 59.326739</gml:pos>
+					<gml:pos>18.061181 59.340323</gml:pos>
+				</BBoxContext>
+			</RouteMap>
+		</DetermineRouteResponse>
+	</Response>
+</XLS>

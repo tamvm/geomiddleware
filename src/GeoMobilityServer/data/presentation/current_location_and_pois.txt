@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XLS version="1.1" xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls C:\work\Openls\schema\schema(1.1)\PresentationService.xsd">
+	<RequestHeader clientName="" clientPassword="" />
+	<Request methodName="MapRequest" version="" requestID="">
+		<PortrayMapRequest>
+			<Output BGcolor="#a6cae0" content="URL" format="GIF_URL"
+				height="600" transparent="false" width="800">
+				<BBoxContext>
+					<gml:pos>-117.50 33.68</gml:pos>
+					<gml:pos>-117.01 33.13</gml:pos>
+				</BBoxContext>
+			</Output>
+			<Overlay zorder="2">
+				<POI>
+					<gml:Point srsName="4326">
+						<gml:pos>-117.4083257 33.488208</gml:pos>
+					</gml:Point>
+					<Address>
+						<freeFormAddress>26/37 Do Quang Dau, Quan 1, TP HCM</freeFormAddress>
+					</Address>
+				</POI>
+			</Overlay>
+			<Overlay>
+				<Position>
+					<gml:CircleByCenterPoint numArc="1">
+						<gml:pos>-117.4083257 33.488208</gml:pos>
+						<gml:radius uom="M">5000</gml:radius>
+					</gml:CircleByCenterPoint>
+				</Position>
+				<Style>
+					<StyleContent>boundaryColor=255,0,0;fillColor=255,0,0;fillTransparency=0.3;thickness=3;overlapLabel=true;</StyleContent>
+				</Style>
+			</Overlay>
+			<Overlay zorder="1">
+				<POI ID="123" phoneNumber="1234" POIName="Cafe Sach">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.4183257 33.508208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+			<Overlay zorder="1">
+				<POI ID="123" phoneNumber="1234" POIName="Cafe MyPlace">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.2083257 33.2788208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+			<Overlay zorder="1">
+				<POI ID="123" phoneNumber="1234" POIName="Cafe Trung Nguyen">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.2983257 33.4788208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+		</PortrayMapRequest>
+	</Request>
+</XLS>

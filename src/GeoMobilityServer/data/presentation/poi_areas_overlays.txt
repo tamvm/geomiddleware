@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XLS version="1.1" xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls C:\work\Openls\schema\schema(1.1)\PresentationService.xsd">
+	<RequestHeader clientName="" clientPassword="" />
+	<Request methodName="MapRequest" version="" requestID="">
+		<PortrayMapRequest>
+			<Output BGcolor="#a6cae0" content="URL" format="GIF_URL"
+				height="600" transparent="false" width="800">
+				<BBoxContext>
+					<gml:pos>-117.60 32.98</gml:pos>
+					<gml:pos>-117.01 35.13</gml:pos>
+				</BBoxContext>
+			</Output>
+			<Overlay zorder="1">
+				<POI ID="123" phoneNumber="1234" POIName="Cafe Sach">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.4083257 33.788208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+			<Overlay zorder="2">
+				<POI ID="124" phoneNumber="1234" POIName="Cafe Lit">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.3083257 33.788208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+			<Overlay zorder="3">
+				<POI ID="125" phoneNumber="1234" POIName="Cafe Cuoi">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.2083257 33.788208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+			<Overlay zorder="4">
+				<POI ID="126" phoneNumber="1234" POIName="Cafe Nam">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.3983257 34.788208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+			<Overlay zorder="5">
+				<POI ID="127" phoneNumber="1234" POIName="Cafe Ngoi">
+					<gml:Point srsName="4326">
+						<gml:pos>-117.3383257 34.008208</gml:pos>
+					</gml:Point>
+				</POI>
+			</Overlay>
+			<Overlay>
+				<Position>
+					<gml:Polygon>
+						<gml:exterior>
+							<gml:LinearRing>
+								<gml:pos>-117.589 34.127</gml:pos>
+								<gml:pos>-117.526 34.127</gml:pos>
+								<gml:pos>-117.526 34.082</gml:pos>
+								<gml:pos>-117.589 34.082</gml:pos>
+							</gml:LinearRing>
+						</gml:exterior>
+						<gml:interior>
+							<gml:LinearRing>
+								<gml:pos>-117.576 34.122</gml:pos>
+								<gml:pos>-117.559 34.122</gml:pos>
+								<gml:pos>-117.559 34.107</gml:pos>
+								<gml:pos>-117.576 34.107</gml:pos>
+							</gml:LinearRing>
+						</gml:interior>
+						<gml:interior>
+							<gml:LinearRing>
+								<gml:pos>-117.559 34.107</gml:pos>
+								<gml:pos>-117.541 34.107</gml:pos>
+								<gml:pos>-117.541 34.09</gml:pos>
+								<gml:pos>-117.559 34.09</gml:pos>
+							</gml:LinearRing>
+						</gml:interior>
+					</gml:Polygon>
+				</Position>
+			</Overlay>
+			<Overlay>
+				<Position>
+					<gml:CircleByCenterPoint numArc="1">
+						<gml:pos>-117.3383257 34.008208</gml:pos>
+						<gml:radius uom="M">30000</gml:radius>
+					</gml:CircleByCenterPoint>
+				</Position>
+				<Style>
+					<StyleContent>boundaryColor=255,0,0;fillColor=255,0,0;fillTransparency=0.3;thickness=3;overlapLabel=true;</StyleContent>
+				</Style>
+			</Overlay>
+
+		</PortrayMapRequest>
+	</Request>
+</XLS>

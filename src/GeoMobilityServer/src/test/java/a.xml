@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns6:GetMap xmlns:ns1="http://www.opengis.net/gml" xmlns:ns2="http://www.opengis.net/xls" xmlns:ns3="http://www.w3.org/1999/xlink" xmlns:ns4="http://www.w3.org/2001/SMIL20/" xmlns:ns5="http://www.opengis.net/se" xmlns:ns6="http://www.opengis.net/sld" xmlns:ns7="http://www.opengis.net/ogc" xmlns:ns8="http://www.opengis.net/wms" xmlns:ns9="http://www.opengis.net/ows" xmlns:ns10="http://www.w3.org/2001/SMIL20/Language" version="1.3.0">
+	
+    <ns6:BoundingBox>
+        <ns1:CoordType>
+            <ns1:X>
+                10
+            </ns1:X>
+            <ns1:Y>
+                20
+            </ns1:Y>
+        </ns1:CoordType>
+        <ns1:CoordType>
+            <ns1:X>
+                10
+            </ns1:X>
+            <ns1:Y>
+                20
+            </ns1:Y>
+        </ns1:CoordType>
+    </ns6:BoundingBox>
+</ns6:GetMap>

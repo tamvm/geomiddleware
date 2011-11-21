@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XLS xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls PresentationService.xsd"
+	version="1.0">
+	<ResponseHeader />
+	<Response version="1.0" requestID="">
+		<PortrayMapResponse>
+			<Map>
+				<Content format="png8" width="400" height="400">
+					<URL>http://www.arcwebservices.com/output/TA_ArcWeb_US_ARCWEB21852349622.png</URL>
+				</Content>
+				<BBoxContext srsName="#26911">
+					<gml:pos>475515.67406 3759942.92595</gml:pos>
+					<gml:pos>492171.2375500001 3776598.48944</gml:pos>
+				</BBoxContext>
+			</Map>
+		</PortrayMapResponse>
+	</Response>
+</XLS>

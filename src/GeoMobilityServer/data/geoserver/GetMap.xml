@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid XML Studio Developer Edition 8.1.7.2743 (http://www.liquid-technologies.com) -->
+<wms:GetMap xmlns="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" xmlns:ows="http://www.opengis.net/ows" xmlns:se="http://www.opengis.net/se" xmlns:wms="http://www.opengis.net/wms" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sch="http://www.ascc.net/xml/schematron" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/sld file:///D:/Location-based%20Services/GeoMobility/src/Schema/Liquid%20Project/OpenLS/sld/1.1.1/GetMap.xsd">
+    <wms:Format>string</wms:Format>
+    <wms:Format>string</wms:Format>
+    <wms:DCPType>
+        <wms:HTTP>
+            <wms:Get>
+                <wms:OnlineResource type="simple" xlink:href="http://www.liquid-technologies.com" xlink:role="http://www.liquid-technologies.com" xlink:arcrole="http://www.liquid-technologies.com" xlink:title="string" xlink:show="replace" />
+            </wms:Get>
+        </wms:HTTP>
+    </wms:DCPType>
+    <wms:DCPType>
+        <wms:HTTP>
+            <wms:Get>
+                <wms:OnlineResource xlink:arcrole="http://www.liquid-technologies.com" xlink:title="string" xlink:show="other" xlink:actuate="onLoad" />
+            </wms:Get>
+            <wms:Post>
+                <wms:OnlineResource type="simple" xlink:role="http://www.liquid-technologies.com" xlink:actuate="other" />
+            </wms:Post>
+        </wms:HTTP>
+    </wms:DCPType>
+    <wms:DCPType>
+        <wms:HTTP>
+            <wms:Get>
+                <wms:OnlineResource type="simple" xlink:href="http://www.liquid-technologies.com" xlink:arcrole="http://www.liquid-technologies.com" xlink:actuate="onRequest" />
+            </wms:Get>
+        </wms:HTTP>
+    </wms:DCPType>
+    <wms:DCPType>
+        <wms:HTTP>
+            <wms:Get>
+                <wms:OnlineResource type="simple" xlink:role="http://www.liquid-technologies.com" xlink:title="string" xlink:actuate="onLoad" />
+            </wms:Get>
+            <wms:Post>
+                <wms:OnlineResource type="simple" xlink:href="http://www.liquid-technologies.com" xlink:role="http://www.liquid-technologies.com" xlink:arcrole="http://www.liquid-technologies.com" xlink:title="string" />
+            </wms:Post>
+        </wms:HTTP>
+    </wms:DCPType>
+    <wms:DCPType>
+        <wms:HTTP>
+            <wms:Get>
+                <wms:OnlineResource type="simple" xlink:href="http://www.liquid-technologies.com" xlink:role="http://www.liquid-technologies.com" xlink:actuate="none" />
+            </wms:Get>
+        </wms:HTTP>
+    </wms:DCPType>
+</wms:GetMap>

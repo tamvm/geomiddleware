@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XLS xmlns="http://www.opengis.net/xls" xmlns:xls="http://www.opengis.net/xls"
+	xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls RouteService.xsd"
+	xsi:lang="En" version="1.1">
+	<ResponseHeader />
+	<Response version="" requestID="">
+		<DetermineRouteResponse>
+			<RouteSummary>
+				<TotalTime>PT0H16M</TotalTime>
+				<TotalDistance value="11.10948" />
+				<BoundingBox>
+					<gml:pos>-71.504088 41.75474</gml:pos>
+					<gml:pos>-71.434353 41.80911</gml:pos>
+				</BoundingBox>
+			</RouteSummary>
+			<RouteInstructionsList xls:lang="Sw">
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Depart Origin.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Go East on MURRAY ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.098759" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn right on ETHAN ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.083953" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Turn left on UNION AVE. Drive 1 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="0.97081" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Take ramp and go South on STATE HWY 10. Drive 1.5
+						mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.4927" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H2M" description="Overview">
+					<Instruction>Take ramp and go South West on STATE HWY 2 (RESERVOIR
+						AVE). Drive 1.5 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.547886" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Make sharp left on AQUEDUCT RD. Drive 0.1 mile(s) ~ <
+						1 minute.</Instruction>
+					<distance value="0.129836" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Straight on BARNSDALE RD. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.037469" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn right on INTERVALE RD. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.030759" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Arrive at Stop 1, stay for < 1 minute.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Depart Stop 1.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Continue South on INTERVALE RD. Drive < 0.1 mile(s) ~
+						< 1 minute.</Instruction>
+					<distance value="0.024154" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Make sharp right on DELWAY RD. Drive 0.2 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.197125" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Go South West on STATE HWY 2 (RESERVOIR AVE). Drive
+						1.2 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.217731" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Take ramp and go West on STATE HWY 37. Drive 0.7
+						mile(s) ~ 1 minute(s).</Instruction>
+					<distance value="0.7212" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H3M" description="Overview">
+					<Instruction>At exit 1B take ramp and go North West on I 295. Drive
+						2.6 mile(s) ~ 3 minute(s).</Instruction>
+					<distance value="2.5578" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>At exit 4 take ramp. Drive 0.3 mile(s) ~ < 1 minute.</Instruction>
+					<distance value="0.2791" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Straight on No name. Drive < 0.1 mile(s) ~ < 1 minute.</Instruction>
+					<distance value="0.0664" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Bear right on STATE HWY 14 (PLAINFIELD PIKE). Drive
+						1.1 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.1446" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Straight on STATE HWY 14 (PLAINFIELD ST). Drive 0.2
+						mile(s) ~ < 1 minute.</Instruction>
+					<distance value="0.232192" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn left on SCHOOL ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.061143" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn left on VANNER ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.03941" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn right on HERITAGE CIR. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.093648" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn left on RIVER DR. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.082808" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Arrive at Destination.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+			</RouteInstructionsList>
+			<RouteMap description="Overview">
+				<Content format="png8" width="400" height="400">
+					<URL>http://www.arcwebservices.com/output/TA_ArcWeb_US_ARCWEB21852319621.png</URL>
+				</Content>
+				<BBoxContext>
+					<gml:pos>-71.504088 41.75474</gml:pos>
+					<gml:pos>-71.434353 41.80911</gml:pos>
+				</BBoxContext>
+			</RouteMap>
+		</DetermineRouteResponse>
+	</Response>
+</XLS>

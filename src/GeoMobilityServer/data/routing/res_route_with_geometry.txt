@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XLS xmlns="http://www.opengis.net/xls" xmlns:xls="http://www.opengis.net/xls"
+	xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls RouteService.xsd"
+	xsi:lang="En" version="1.1">
+	<ResponseHeader />
+	<Response version="" requestID="">
+		<DetermineRouteResponse>
+			<RouteSummary>
+				<TotalTime>PT0H16M</TotalTime>
+				<TotalDistance value="11.10948" />
+				<BoundingBox>
+					<gml:pos>-71.504088 41.75474</gml:pos>
+					<gml:pos>-71.434353 41.80911</gml:pos>
+				</BoundingBox>
+			</RouteSummary>
+			<RouteGeometry>
+				<gml:LineString>
+					<gml:pos>-71.460367 41.809110</gml:pos>
+					<gml:pos>-71.460367 41.809110</gml:pos>
+					<gml:pos>-71.460367 41.809110</gml:pos>
+					<gml:pos>-71.459439 41.808728</gml:pos>
+					<gml:pos>-71.459439 41.808728</gml:pos>
+					<gml:pos>-71.458690 41.808420</gml:pos>
+					<gml:pos>-71.458690 41.808420</gml:pos>
+					<gml:pos>-71.458690 41.808420</gml:pos>
+					<gml:pos>-71.458690 41.808420</gml:pos>
+					<gml:pos>-71.459075 41.807896</gml:pos>
+					<gml:pos>-71.459075 41.807896</gml:pos>
+					<gml:pos>-71.459302 41.807573</gml:pos>
+					<gml:pos>-71.459302 41.807573</gml:pos>
+					<gml:pos>-71.459473 41.807356</gml:pos>
+					<gml:pos>-71.459473 41.807356</gml:pos>
+					<gml:pos>-71.459473 41.807356</gml:pos>
+					<gml:pos>-71.459473 41.807356</gml:pos>
+					<gml:pos>-71.459473 41.807356</gml:pos>
+					<gml:pos>-71.459473 41.807356</gml:pos>
+					<gml:pos>-71.458547 41.806984</gml:pos>
+					<gml:pos>-71.457251 41.806445</gml:pos>
+					<gml:pos>-71.457098 41.806421</gml:pos>
+					<gml:pos>-71.457098 41.806421</gml:pos>
+					<gml:pos>-71.456896 41.806407</gml:pos>
+					<gml:pos>-71.456703 41.806410</gml:pos>
+					<gml:pos>-71.454925 41.806342</gml:pos>
+					<gml:pos>-71.452350 41.806268</gml:pos>
+					<gml:pos>-71.451225 41.806263</gml:pos>
+					<gml:pos>-71.450310 41.806232</gml:pos>
+					<gml:pos>-71.450125 41.806234</gml:pos>
+					<gml:pos>-71.450125 41.806234</gml:pos>
+					<gml:pos>-71.449907 41.806251</gml:pos>
+					<gml:pos>-71.449727 41.806277</gml:pos>
+					<gml:pos>-71.449316 41.806367</gml:pos>
+					<gml:pos>-71.448821 41.806497</gml:pos>
+					<gml:pos>-71.447550 41.806830</gml:pos>
+					<gml:pos>-71.447550 41.806830</gml:pos>
+					<gml:pos>-71.445742 41.807298</gml:pos>
+					<gml:pos>-71.443888 41.807779</gml:pos>
+					<gml:pos>-71.443025 41.808014</gml:pos>
+					<gml:pos>-71.442476 41.808164</gml:pos>
+					<gml:pos>-71.441980 41.808304</gml:pos>
+					<gml:pos>-71.441860 41.808338</gml:pos>
+					<gml:pos>-71.441773 41.808363</gml:pos>
+					<gml:pos>-71.441647 41.808398</gml:pos>
+					<gml:pos>-71.441520 41.808434</gml:pos>
+					<gml:pos>-71.441469 41.808448</gml:pos>
+					<gml:pos>-71.441469 41.808448</gml:pos>
+					<gml:pos>-71.441469 41.808448</gml:pos>
+					<gml:pos>-71.441469 41.808448</gml:pos>
+					<gml:pos>-71.441389 41.808416</gml:pos>
+					<gml:pos>-71.441252 41.808334</gml:pos>
+					<gml:pos>-71.441178 41.808246</gml:pos>
+					<gml:pos>-71.441178 41.808246</gml:pos>
+					<gml:pos>-71.441178 41.807983</gml:pos>
+					<gml:pos>-71.441178 41.807983</gml:pos>
+					<gml:pos>-71.441108 41.806617</gml:pos>
+					<gml:pos>-71.441009 41.806109</gml:pos>
+					<gml:pos>-71.440965 41.805970</gml:pos>
+					<gml:pos>-71.440881 41.805795</gml:pos>
+					<gml:pos>-71.440881 41.805795</gml:pos>
+					<gml:pos>-71.440837 41.805596</gml:pos>
+					<gml:pos>-71.440680 41.804862</gml:pos>
+					<gml:pos>-71.440566 41.804312</gml:pos>
+					<gml:pos>-71.440545 41.804225</gml:pos>
+					<gml:pos>-71.440477 41.803867</gml:pos>
+					<gml:pos>-71.440376 41.803318</gml:pos>
+					<gml:pos>-71.440339 41.803126</gml:pos>
+					<gml:pos>-71.440236 41.802581</gml:pos>
+					<gml:pos>-71.440236 41.802581</gml:pos>
+					<gml:pos>-71.440168 41.802289</gml:pos>
+					<gml:pos>-71.440133 41.802025</gml:pos>
+					<gml:pos>-71.440114 41.801762</gml:pos>
+					<gml:pos>-71.440097 41.801521</gml:pos>
+					<gml:pos>-71.440100 41.801364</gml:pos>
+					<gml:pos>-71.440129 41.801118</gml:pos>
+					<gml:pos>-71.440161 41.800837</gml:pos>
+					<gml:pos>-71.440241 41.800398</gml:pos>
+					<gml:pos>-71.440360 41.800026</gml:pos>
+					<gml:pos>-71.440498 41.799653</gml:pos>
+					<gml:pos>-71.440984 41.798617</gml:pos>
+					<gml:pos>-71.441121 41.798339</gml:pos>
+					<gml:pos>-71.441285 41.797877</gml:pos>
+					<gml:pos>-71.441423 41.797345</gml:pos>
+					<gml:pos>-71.441462 41.797084</gml:pos>
+					<gml:pos>-71.441487 41.796709</gml:pos>
+					<gml:pos>-71.441487 41.796709</gml:pos>
+					<gml:pos>-71.441475 41.796362</gml:pos>
+					<gml:pos>-71.441426 41.795906</gml:pos>
+					<gml:pos>-71.441377 41.795668</gml:pos>
+					<gml:pos>-71.441250 41.795193</gml:pos>
+					<gml:pos>-71.440997 41.794248</gml:pos>
+					<gml:pos>-71.440891 41.793915</gml:pos>
+					<gml:pos>-71.440717 41.793487</gml:pos>
+					<gml:pos>-71.440553 41.793176</gml:pos>
+					<gml:pos>-71.440452 41.793006</gml:pos>
+					<gml:pos>-71.440299 41.792753</gml:pos>
+					<gml:pos>-71.440141 41.792526</gml:pos>
+					<gml:pos>-71.440061 41.792433</gml:pos>
+					<gml:pos>-71.439926 41.792264</gml:pos>
+					<gml:pos>-71.439734 41.792045</gml:pos>
+					<gml:pos>-71.439462 41.791784</gml:pos>
+					<gml:pos>-71.439100 41.791455</gml:pos>
+					<gml:pos>-71.438840 41.791202</gml:pos>
+					<gml:pos>-71.438445 41.790840</gml:pos>
+					<gml:pos>-71.438117 41.790519</gml:pos>
+					<gml:pos>-71.437970 41.790376</gml:pos>
+					<gml:pos>-71.437187 41.789672</gml:pos>
+					<gml:pos>-71.436480 41.789020</gml:pos>
+					<gml:pos>-71.436288 41.788841</gml:pos>
+					<gml:pos>-71.436144 41.788707</gml:pos>
+					<gml:pos>-71.435949 41.788524</gml:pos>
+					<gml:pos>-71.435844 41.788425</gml:pos>
+					<gml:pos>-71.435844 41.788425</gml:pos>
+					<gml:pos>-71.435844 41.788425</gml:pos>
+					<gml:pos>-71.435844 41.788425</gml:pos>
+					<gml:pos>-71.435271 41.787690</gml:pos>
+					<gml:pos>-71.435021 41.787385</gml:pos>
+					<gml:pos>-71.434701 41.786995</gml:pos>
+					<gml:pos>-71.434526 41.786767</gml:pos>
+					<gml:pos>-71.434424 41.786625</gml:pos>
+					<gml:pos>-71.434357 41.786430</gml:pos>
+					<gml:pos>-71.434353 41.786398</gml:pos>
+					<gml:pos>-71.434353 41.786347</gml:pos>
+					<gml:pos>-71.434382 41.786255</gml:pos>
+					<gml:pos>-71.434419 41.786168</gml:pos>
+					<gml:pos>-71.434476 41.786075</gml:pos>
+					<gml:pos>-71.434476 41.786075</gml:pos>
+					<gml:pos>-71.434586 41.785990</gml:pos>
+					<gml:pos>-71.434625 41.785961</gml:pos>
+					<gml:pos>-71.434646 41.785949</gml:pos>
+					<gml:pos>-71.434646 41.785949</gml:pos>
+					<gml:pos>-71.435204 41.785564</gml:pos>
+					<gml:pos>-71.435282 41.785509</gml:pos>
+					<gml:pos>-71.435376 41.785425</gml:pos>
+					<gml:pos>-71.435495 41.785342</gml:pos>
+					<gml:pos>-71.435725 41.785168</gml:pos>
+					<gml:pos>-71.435963 41.785009</gml:pos>
+					<gml:pos>-71.436268 41.784772</gml:pos>
+					<gml:pos>-71.436302 41.784749</gml:pos>
+					<gml:pos>-71.436957 41.784266</gml:pos>
+					<gml:pos>-71.437503 41.783887</gml:pos>
+					<gml:pos>-71.437604 41.783822</gml:pos>
+					<gml:pos>-71.437833 41.783665</gml:pos>
+					<gml:pos>-71.438231 41.783381</gml:pos>
+					<gml:pos>-71.438859 41.782920</gml:pos>
+					<gml:pos>-71.439383 41.782540</gml:pos>
+					<gml:pos>-71.439470 41.782478</gml:pos>
+					<gml:pos>-71.440115 41.782012</gml:pos>
+					<gml:pos>-71.440794 41.781508</gml:pos>
+					<gml:pos>-71.440877 41.781454</gml:pos>
+					<gml:pos>-71.440877 41.781454</gml:pos>
+					<gml:pos>-71.440930 41.781423</gml:pos>
+					<gml:pos>-71.441529 41.780991</gml:pos>
+					<gml:pos>-71.441557 41.780970</gml:pos>
+					<gml:pos>-71.441702 41.780865</gml:pos>
+					<gml:pos>-71.441758 41.780834</gml:pos>
+					<gml:pos>-71.442095 41.780586</gml:pos>
+					<gml:pos>-71.442114 41.780580</gml:pos>
+					<gml:pos>-71.442212 41.780496</gml:pos>
+					<gml:pos>-71.442259 41.780468</gml:pos>
+					<gml:pos>-71.442628 41.780199</gml:pos>
+					<gml:pos>-71.443166 41.779809</gml:pos>
+					<gml:pos>-71.443185 41.779802</gml:pos>
+					<gml:pos>-71.443541 41.779558</gml:pos>
+					<gml:pos>-71.443681 41.779453</gml:pos>
+					<gml:pos>-71.443704 41.779443</gml:pos>
+					<gml:pos>-71.444219 41.779052</gml:pos>
+					<gml:pos>-71.444794 41.778654</gml:pos>
+					<gml:pos>-71.444930 41.778557</gml:pos>
+					<gml:pos>-71.445318 41.778267</gml:pos>
+					<gml:pos>-71.445337 41.778260</gml:pos>
+					<gml:pos>-71.445552 41.778107</gml:pos>
+					<gml:pos>-71.445814 41.777922</gml:pos>
+					<gml:pos>-71.446197 41.777636</gml:pos>
+					<gml:pos>-71.446610 41.777332</gml:pos>
+					<gml:pos>-71.446666 41.777283</gml:pos>
+					<gml:pos>-71.446820 41.777182</gml:pos>
+					<gml:pos>-71.447400 41.776763</gml:pos>
+					<gml:pos>-71.447994 41.776338</gml:pos>
+					<gml:pos>-71.448555 41.775937</gml:pos>
+					<gml:pos>-71.449131 41.775515</gml:pos>
+					<gml:pos>-71.449346 41.775340</gml:pos>
+					<gml:pos>-71.449351 41.775333</gml:pos>
+					<gml:pos>-71.449693 41.775023</gml:pos>
+					<gml:pos>-71.451021 41.773643</gml:pos>
+					<gml:pos>-71.451325 41.773326</gml:pos>
+					<gml:pos>-71.451381 41.773270</gml:pos>
+					<gml:pos>-71.451433 41.773211</gml:pos>
+					<gml:pos>-71.451484 41.773162</gml:pos>
+					<gml:pos>-71.451545 41.773085</gml:pos>
+					<gml:pos>-71.451751 41.772876</gml:pos>
+					<gml:pos>-71.452218 41.772387</gml:pos>
+					<gml:pos>-71.452719 41.771881</gml:pos>
+					<gml:pos>-71.452719 41.771881</gml:pos>
+					<gml:pos>-71.452719 41.771881</gml:pos>
+					<gml:pos>-71.452719 41.771881</gml:pos>
+					<gml:pos>-71.452676 41.771862</gml:pos>
+					<gml:pos>-71.452676 41.771862</gml:pos>
+					<gml:pos>-71.452616 41.771829</gml:pos>
+					<gml:pos>-71.452616 41.771829</gml:pos>
+					<gml:pos>-71.450680 41.770781</gml:pos>
+					<gml:pos>-71.450680 41.770781</gml:pos>
+					<gml:pos>-71.450680 41.770781</gml:pos>
+					<gml:pos>-71.450680 41.770781</gml:pos>
+					<gml:pos>-71.450102 41.770453</gml:pos>
+					<gml:pos>-71.450102 41.770453</gml:pos>
+					<gml:pos>-71.450102 41.770453</gml:pos>
+					<gml:pos>-71.450102 41.770453</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450132 41.770009</gml:pos>
+					<gml:pos>-71.450155 41.769660</gml:pos>
+					<gml:pos>-71.450155 41.769660</gml:pos>
+					<gml:pos>-71.450155 41.769660</gml:pos>
+					<gml:pos>-71.450155 41.769660</gml:pos>
+					<gml:pos>-71.451976 41.770650</gml:pos>
+					<gml:pos>-71.453164 41.771271</gml:pos>
+					<gml:pos>-71.453164 41.771271</gml:pos>
+					<gml:pos>-71.453213 41.771306</gml:pos>
+					<gml:pos>-71.453213 41.771306</gml:pos>
+					<gml:pos>-71.453253 41.771327</gml:pos>
+					<gml:pos>-71.453253 41.771327</gml:pos>
+					<gml:pos>-71.453253 41.771327</gml:pos>
+					<gml:pos>-71.453253 41.771327</gml:pos>
+					<gml:pos>-71.453253 41.771327</gml:pos>
+					<gml:pos>-71.453253 41.771327</gml:pos>
+					<gml:pos>-71.453697 41.770856</gml:pos>
+					<gml:pos>-71.453697 41.770856</gml:pos>
+					<gml:pos>-71.453800 41.770752</gml:pos>
+					<gml:pos>-71.453800 41.770752</gml:pos>
+					<gml:pos>-71.453808 41.770730</gml:pos>
+					<gml:pos>-71.453952 41.770586</gml:pos>
+					<gml:pos>-71.454131 41.770383</gml:pos>
+					<gml:pos>-71.455159 41.769345</gml:pos>
+					<gml:pos>-71.455417 41.769082</gml:pos>
+					<gml:pos>-71.455820 41.768652</gml:pos>
+					<gml:pos>-71.455974 41.768497</gml:pos>
+					<gml:pos>-71.456241 41.768215</gml:pos>
+					<gml:pos>-71.456274 41.768194</gml:pos>
+					<gml:pos>-71.456517 41.767939</gml:pos>
+					<gml:pos>-71.457078 41.767374</gml:pos>
+					<gml:pos>-71.457078 41.767374</gml:pos>
+					<gml:pos>-71.457254 41.767156</gml:pos>
+					<gml:pos>-71.457254 41.767156</gml:pos>
+					<gml:pos>-71.457295 41.767105</gml:pos>
+					<gml:pos>-71.457608 41.766795</gml:pos>
+					<gml:pos>-71.457809 41.766576</gml:pos>
+					<gml:pos>-71.458063 41.766338</gml:pos>
+					<gml:pos>-71.458063 41.766338</gml:pos>
+					<gml:pos>-71.458463 41.765924</gml:pos>
+					<gml:pos>-71.458694 41.765645</gml:pos>
+					<gml:pos>-71.458701 41.765640</gml:pos>
+					<gml:pos>-71.458837 41.765431</gml:pos>
+					<gml:pos>-71.458837 41.765431</gml:pos>
+					<gml:pos>-71.458857 41.765402</gml:pos>
+					<gml:pos>-71.458928 41.765290</gml:pos>
+					<gml:pos>-71.458941 41.765286</gml:pos>
+					<gml:pos>-71.458991 41.765191</gml:pos>
+					<gml:pos>-71.459029 41.765121</gml:pos>
+					<gml:pos>-71.459080 41.765034</gml:pos>
+					<gml:pos>-71.459165 41.764862</gml:pos>
+					<gml:pos>-71.459170 41.764858</gml:pos>
+					<gml:pos>-71.459235 41.764684</gml:pos>
+					<gml:pos>-71.459389 41.764192</gml:pos>
+					<gml:pos>-71.459389 41.764181</gml:pos>
+					<gml:pos>-71.459427 41.763958</gml:pos>
+					<gml:pos>-71.459483 41.763333</gml:pos>
+					<gml:pos>-71.459502 41.762782</gml:pos>
+					<gml:pos>-71.459502 41.762489</gml:pos>
+					<gml:pos>-71.459539 41.761533</gml:pos>
+					<gml:pos>-71.459572 41.761010</gml:pos>
+					<gml:pos>-71.459595 41.760853</gml:pos>
+					<gml:pos>-71.459595 41.760853</gml:pos>
+					<gml:pos>-71.459623 41.760609</gml:pos>
+					<gml:pos>-71.459680 41.760200</gml:pos>
+					<gml:pos>-71.459741 41.759966</gml:pos>
+					<gml:pos>-71.460050 41.759063</gml:pos>
+					<gml:pos>-71.460218 41.758689</gml:pos>
+					<gml:pos>-71.460311 41.758529</gml:pos>
+					<gml:pos>-71.460311 41.758529</gml:pos>
+					<gml:pos>-71.460344 41.758460</gml:pos>
+					<gml:pos>-71.460559 41.758104</gml:pos>
+					<gml:pos>-71.460877 41.757633</gml:pos>
+					<gml:pos>-71.461424 41.756963</gml:pos>
+					<gml:pos>-71.461424 41.756963</gml:pos>
+					<gml:pos>-71.461680 41.756611</gml:pos>
+					<gml:pos>-71.462326 41.755739</gml:pos>
+					<gml:pos>-71.462443 41.755607</gml:pos>
+					<gml:pos>-71.462443 41.755607</gml:pos>
+					<gml:pos>-71.462443 41.755607</gml:pos>
+					<gml:pos>-71.462443 41.755607</gml:pos>
+					<gml:pos>-71.462873 41.755352</gml:pos>
+					<gml:pos>-71.463098 41.755282</gml:pos>
+					<gml:pos>-71.463247 41.755251</gml:pos>
+					<gml:pos>-71.463304 41.755241</gml:pos>
+					<gml:pos>-71.463527 41.755230</gml:pos>
+					<gml:pos>-71.464136 41.755226</gml:pos>
+					<gml:pos>-71.464414 41.755197</gml:pos>
+					<gml:pos>-71.464590 41.755189</gml:pos>
+					<gml:pos>-71.464791 41.755149</gml:pos>
+					<gml:pos>-71.465261 41.755018</gml:pos>
+					<gml:pos>-71.465862 41.754831</gml:pos>
+					<gml:pos>-71.466169 41.754765</gml:pos>
+					<gml:pos>-71.466341 41.754740</gml:pos>
+					<gml:pos>-71.466612 41.754740</gml:pos>
+					<gml:pos>-71.466758 41.754751</gml:pos>
+					<gml:pos>-71.467062 41.754798</gml:pos>
+					<gml:pos>-71.467172 41.754827</gml:pos>
+					<gml:pos>-71.468016 41.755158</gml:pos>
+					<gml:pos>-71.468016 41.755158</gml:pos>
+					<gml:pos>-71.468181 41.755251</gml:pos>
+					<gml:pos>-71.468573 41.755445</gml:pos>
+					<gml:pos>-71.469103 41.755672</gml:pos>
+					<gml:pos>-71.469340 41.755764</gml:pos>
+					<gml:pos>-71.469724 41.755913</gml:pos>
+					<gml:pos>-71.470062 41.756022</gml:pos>
+					<gml:pos>-71.470628 41.756187</gml:pos>
+					<gml:pos>-71.471065 41.756284</gml:pos>
+					<gml:pos>-71.471385 41.756355</gml:pos>
+					<gml:pos>-71.471682 41.756410</gml:pos>
+					<gml:pos>-71.472697 41.756556</gml:pos>
+					<gml:pos>-71.473094 41.756597</gml:pos>
+					<gml:pos>-71.473925 41.756652</gml:pos>
+					<gml:pos>-71.474574 41.756659</gml:pos>
+					<gml:pos>-71.475188 41.756619</gml:pos>
+					<gml:pos>-71.475484 41.756597</gml:pos>
+					<gml:pos>-71.475620 41.756585</gml:pos>
+					<gml:pos>-71.475620 41.756585</gml:pos>
+					<gml:pos>-71.475620 41.756585</gml:pos>
+					<gml:pos>-71.475620 41.756585</gml:pos>
+					<gml:pos>-71.476119 41.756614</gml:pos>
+					<gml:pos>-71.476338 41.756628</gml:pos>
+					<gml:pos>-71.476338 41.756628</gml:pos>
+					<gml:pos>-71.476430 41.756648</gml:pos>
+					<gml:pos>-71.476515 41.756670</gml:pos>
+					<gml:pos>-71.476613 41.756694</gml:pos>
+					<gml:pos>-71.476696 41.756732</gml:pos>
+					<gml:pos>-71.476913 41.756841</gml:pos>
+					<gml:pos>-71.477037 41.756923</gml:pos>
+					<gml:pos>-71.477130 41.756991</gml:pos>
+					<gml:pos>-71.477307 41.757159</gml:pos>
+					<gml:pos>-71.477493 41.757356</gml:pos>
+					<gml:pos>-71.477680 41.757532</gml:pos>
+					<gml:pos>-71.477987 41.757777</gml:pos>
+					<gml:pos>-71.478150 41.757883</gml:pos>
+					<gml:pos>-71.479054 41.758409</gml:pos>
+					<gml:pos>-71.479299 41.758567</gml:pos>
+					<gml:pos>-71.479368 41.758631</gml:pos>
+					<gml:pos>-71.479456 41.758727</gml:pos>
+					<gml:pos>-71.479616 41.759009</gml:pos>
+					<gml:pos>-71.479663 41.759130</gml:pos>
+					<gml:pos>-71.479777 41.759590</gml:pos>
+					<gml:pos>-71.479928 41.760385</gml:pos>
+					<gml:pos>-71.479928 41.760385</gml:pos>
+					<gml:pos>-71.479958 41.760682</gml:pos>
+					<gml:pos>-71.480103 41.761574</gml:pos>
+					<gml:pos>-71.480236 41.762247</gml:pos>
+					<gml:pos>-71.480364 41.762788</gml:pos>
+					<gml:pos>-71.480467 41.763150</gml:pos>
+					<gml:pos>-71.480814 41.764203</gml:pos>
+					<gml:pos>-71.481102 41.764912</gml:pos>
+					<gml:pos>-71.481380 41.765563</gml:pos>
+					<gml:pos>-71.481726 41.766335</gml:pos>
+					<gml:pos>-71.482022 41.766885</gml:pos>
+					<gml:pos>-71.482587 41.767779</gml:pos>
+					<gml:pos>-71.482902 41.768244</gml:pos>
+					<gml:pos>-71.483731 41.769352</gml:pos>
+					<gml:pos>-71.483850 41.769491</gml:pos>
+					<gml:pos>-71.483967 41.769648</gml:pos>
+					<gml:pos>-71.484582 41.770383</gml:pos>
+					<gml:pos>-71.484990 41.770825</gml:pos>
+					<gml:pos>-71.485632 41.771440</gml:pos>
+					<gml:pos>-71.486254 41.771985</gml:pos>
+					<gml:pos>-71.486591 41.772244</gml:pos>
+					<gml:pos>-71.487460 41.772847</gml:pos>
+					<gml:pos>-71.488002 41.773199</gml:pos>
+					<gml:pos>-71.488519 41.773495</gml:pos>
+					<gml:pos>-71.489314 41.773926</gml:pos>
+					<gml:pos>-71.490648 41.774555</gml:pos>
+					<gml:pos>-71.491653 41.774991</gml:pos>
+					<gml:pos>-71.492336 41.775294</gml:pos>
+					<gml:pos>-71.492938 41.775573</gml:pos>
+					<gml:pos>-71.493299 41.775735</gml:pos>
+					<gml:pos>-71.493645 41.775890</gml:pos>
+					<gml:pos>-71.494463 41.776255</gml:pos>
+					<gml:pos>-71.496613 41.777254</gml:pos>
+					<gml:pos>-71.497654 41.777828</gml:pos>
+					<gml:pos>-71.497891 41.777989</gml:pos>
+					<gml:pos>-71.498584 41.778484</gml:pos>
+					<gml:pos>-71.498993 41.778810</gml:pos>
+					<gml:pos>-71.499666 41.779394</gml:pos>
+					<gml:pos>-71.500158 41.779796</gml:pos>
+					<gml:pos>-71.500519 41.780220</gml:pos>
+					<gml:pos>-71.500650 41.780386</gml:pos>
+					<gml:pos>-71.500796 41.780546</gml:pos>
+					<gml:pos>-71.501218 41.781094</gml:pos>
+					<gml:pos>-71.501663 41.781762</gml:pos>
+					<gml:pos>-71.502294 41.782708</gml:pos>
+					<gml:pos>-71.502921 41.783672</gml:pos>
+					<gml:pos>-71.503731 41.784908</gml:pos>
+					<gml:pos>-71.503731 41.784908</gml:pos>
+					<gml:pos>-71.503731 41.784908</gml:pos>
+					<gml:pos>-71.503731 41.784908</gml:pos>
+					<gml:pos>-71.503817 41.785154</gml:pos>
+					<gml:pos>-71.504026 41.785595</gml:pos>
+					<gml:pos>-71.504065 41.785716</gml:pos>
+					<gml:pos>-71.504088 41.785851</gml:pos>
+					<gml:pos>-71.504086 41.786007</gml:pos>
+					<gml:pos>-71.504067 41.786125</gml:pos>
+					<gml:pos>-71.504013 41.786295</gml:pos>
+					<gml:pos>-71.503881 41.786528</gml:pos>
+					<gml:pos>-71.503684 41.786750</gml:pos>
+					<gml:pos>-71.503373 41.787007</gml:pos>
+					<gml:pos>-71.503238 41.787119</gml:pos>
+					<gml:pos>-71.503133 41.787223</gml:pos>
+					<gml:pos>-71.503033 41.787359</gml:pos>
+					<gml:pos>-71.502995 41.787439</gml:pos>
+					<gml:pos>-71.502968 41.787511</gml:pos>
+					<gml:pos>-71.502937 41.787641</gml:pos>
+					<gml:pos>-71.502925 41.787819</gml:pos>
+					<gml:pos>-71.502917 41.787981</gml:pos>
+					<gml:pos>-71.502898 41.788113</gml:pos>
+					<gml:pos>-71.502863 41.788277</gml:pos>
+					<gml:pos>-71.502844 41.788439</gml:pos>
+					<gml:pos>-71.502832 41.788648</gml:pos>
+					<gml:pos>-71.502832 41.788648</gml:pos>
+					<gml:pos>-71.502832 41.788648</gml:pos>
+					<gml:pos>-71.502832 41.788648</gml:pos>
+					<gml:pos>-71.502797 41.788838</gml:pos>
+					<gml:pos>-71.502746 41.788953</gml:pos>
+					<gml:pos>-71.502685 41.789040</gml:pos>
+					<gml:pos>-71.502646 41.789080</gml:pos>
+					<gml:pos>-71.502565 41.789155</gml:pos>
+					<gml:pos>-71.502472 41.789224</gml:pos>
+					<gml:pos>-71.502279 41.789328</gml:pos>
+					<gml:pos>-71.502150 41.789413</gml:pos>
+					<gml:pos>-71.502150 41.789413</gml:pos>
+					<gml:pos>-71.502150 41.789413</gml:pos>
+					<gml:pos>-71.502150 41.789413</gml:pos>
+					<gml:pos>-71.500841 41.789819</gml:pos>
+					<gml:pos>-71.500841 41.789819</gml:pos>
+					<gml:pos>-71.500727 41.789855</gml:pos>
+					<gml:pos>-71.500727 41.789855</gml:pos>
+					<gml:pos>-71.500015 41.790068</gml:pos>
+					<gml:pos>-71.499722 41.790163</gml:pos>
+					<gml:pos>-71.499722 41.790163</gml:pos>
+					<gml:pos>-71.499102 41.790379</gml:pos>
+					<gml:pos>-71.498498 41.790586</gml:pos>
+					<gml:pos>-71.497937 41.790758</gml:pos>
+					<gml:pos>-71.497509 41.790879</gml:pos>
+					<gml:pos>-71.497346 41.790917</gml:pos>
+					<gml:pos>-71.497013 41.790991</gml:pos>
+					<gml:pos>-71.496699 41.791044</gml:pos>
+					<gml:pos>-71.496563 41.791069</gml:pos>
+					<gml:pos>-71.495956 41.791135</gml:pos>
+					<gml:pos>-71.495587 41.791186</gml:pos>
+					<gml:pos>-71.494593 41.791306</gml:pos>
+					<gml:pos>-71.493842 41.791408</gml:pos>
+					<gml:pos>-71.493143 41.791503</gml:pos>
+					<gml:pos>-71.492732 41.791540</gml:pos>
+					<gml:pos>-71.492421 41.791540</gml:pos>
+					<gml:pos>-71.492214 41.791529</gml:pos>
+					<gml:pos>-71.491480 41.791449</gml:pos>
+					<gml:pos>-71.490781 41.791373</gml:pos>
+					<gml:pos>-71.490523 41.791369</gml:pos>
+					<gml:pos>-71.490316 41.791383</gml:pos>
+					<gml:pos>-71.490172 41.791401</gml:pos>
+					<gml:pos>-71.490014 41.791429</gml:pos>
+					<gml:pos>-71.489717 41.791519</gml:pos>
+					<gml:pos>-71.489508 41.791604</gml:pos>
+					<gml:pos>-71.489374 41.791684</gml:pos>
+					<gml:pos>-71.489212 41.791800</gml:pos>
+					<gml:pos>-71.488956 41.792005</gml:pos>
+					<gml:pos>-71.488499 41.792363</gml:pos>
+					<gml:pos>-71.488318 41.792509</gml:pos>
+					<gml:pos>-71.488159 41.792631</gml:pos>
+					<gml:pos>-71.487738 41.792952</gml:pos>
+					<gml:pos>-71.487302 41.793264</gml:pos>
+					<gml:pos>-71.486822 41.793610</gml:pos>
+					<gml:pos>-71.485945 41.794222</gml:pos>
+					<gml:pos>-71.485683 41.794388</gml:pos>
+					<gml:pos>-71.485407 41.794540</gml:pos>
+					<gml:pos>-71.484201 41.795266</gml:pos>
+					<gml:pos>-71.483858 41.795454</gml:pos>
+					<gml:pos>-71.483276 41.795734</gml:pos>
+					<gml:pos>-71.482735 41.795979</gml:pos>
+					<gml:pos>-71.482735 41.795979</gml:pos>
+					<gml:pos>-71.482735 41.795979</gml:pos>
+					<gml:pos>-71.482735 41.795979</gml:pos>
+					<gml:pos>-71.482539 41.796059</gml:pos>
+					<gml:pos>-71.482040 41.796243</gml:pos>
+					<gml:pos>-71.481897 41.796299</gml:pos>
+					<gml:pos>-71.481544 41.796436</gml:pos>
+					<gml:pos>-71.481107 41.796574</gml:pos>
+					<gml:pos>-71.480899 41.796612</gml:pos>
+					<gml:pos>-71.480537 41.796688</gml:pos>
+					<gml:pos>-71.480008 41.796776</gml:pos>
+					<gml:pos>-71.479831 41.796813</gml:pos>
+					<gml:pos>-71.479723 41.796842</gml:pos>
+					<gml:pos>-71.479606 41.796900</gml:pos>
+					<gml:pos>-71.479505 41.796967</gml:pos>
+					<gml:pos>-71.479174 41.797216</gml:pos>
+					<gml:pos>-71.478942 41.797345</gml:pos>
+					<gml:pos>-71.478760 41.797440</gml:pos>
+					<gml:pos>-71.478760 41.797440</gml:pos>
+					<gml:pos>-71.478760 41.797440</gml:pos>
+					<gml:pos>-71.478760 41.797440</gml:pos>
+					<gml:pos>-71.478767 41.797591</gml:pos>
+					<gml:pos>-71.478733 41.797731</gml:pos>
+					<gml:pos>-71.478441 41.798280</gml:pos>
+					<gml:pos>-71.478441 41.798280</gml:pos>
+					<gml:pos>-71.478441 41.798280</gml:pos>
+					<gml:pos>-71.478441 41.798280</gml:pos>
+					<gml:pos>-71.479029 41.798463</gml:pos>
+					<gml:pos>-71.479146 41.798500</gml:pos>
+					<gml:pos>-71.479146 41.798500</gml:pos>
+					<gml:pos>-71.479146 41.798500</gml:pos>
+					<gml:pos>-71.479146 41.798500</gml:pos>
+					<gml:pos>-71.478798 41.799114</gml:pos>
+					<gml:pos>-71.478766 41.799151</gml:pos>
+					<gml:pos>-71.478766 41.799151</gml:pos>
+					<gml:pos>-71.478500 41.799454</gml:pos>
+					<gml:pos>-71.478442 41.799582</gml:pos>
+					<gml:pos>-71.478442 41.799633</gml:pos>
+					<gml:pos>-71.478469 41.799726</gml:pos>
+					<gml:pos>-71.478469 41.799726</gml:pos>
+					<gml:pos>-71.478469 41.799726</gml:pos>
+					<gml:pos>-71.478469 41.799726</gml:pos>
+					<gml:pos>-71.479191 41.799648</gml:pos>
+					<gml:pos>-71.479447 41.799630</gml:pos>
+					<gml:pos>-71.479800 41.799644</gml:pos>
+					<gml:pos>-71.480058 41.799692</gml:pos>
+					<gml:pos>-71.480058 41.799692</gml:pos>
+					<gml:pos>-71.480058 41.799692</gml:pos>
+				</gml:LineString>
+			</RouteGeometry>
+			<RouteInstructionsList xls:lang="Sw">
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Depart Origin.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Go East on MURRAY ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.098759" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn right on ETHAN ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.083953" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Turn left on UNION AVE. Drive 1 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="0.97081" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Take ramp and go South on STATE HWY 10. Drive 1.5
+						mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.4927" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H2M" description="Overview">
+					<Instruction>Take ramp and go South West on STATE HWY 2 (RESERVOIR
+						AVE). Drive 1.5 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.547886" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Make sharp left on AQUEDUCT RD. Drive 0.1 mile(s) ~ <
+						1 minute.</Instruction>
+					<distance value="0.129836" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Straight on BARNSDALE RD. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.037469" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn right on INTERVALE RD. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.030759" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Arrive at Stop 1, stay for < 1 minute.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Depart Stop 1.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Continue South on INTERVALE RD. Drive < 0.1 mile(s) ~
+						< 1 minute.</Instruction>
+					<distance value="0.024154" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Make sharp right on DELWAY RD. Drive 0.2 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.197125" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Go South West on STATE HWY 2 (RESERVOIR AVE). Drive
+						1.2 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.217731" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Take ramp and go West on STATE HWY 37. Drive 0.7
+						mile(s) ~ 1 minute(s).</Instruction>
+					<distance value="0.7212" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H3M" description="Overview">
+					<Instruction>At exit 1B take ramp and go North West on I 295. Drive
+						2.6 mile(s) ~ 3 minute(s).</Instruction>
+					<distance value="2.5578" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>At exit 4 take ramp. Drive 0.3 mile(s) ~ < 1 minute.</Instruction>
+					<distance value="0.2791" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Straight on No name. Drive < 0.1 mile(s) ~ < 1 minute.</Instruction>
+					<distance value="0.0664" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H1M" description="Overview">
+					<Instruction>Bear right on STATE HWY 14 (PLAINFIELD PIKE). Drive
+						1.1 mile(s) ~ 2 minute(s).</Instruction>
+					<distance value="1.1446" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Straight on STATE HWY 14 (PLAINFIELD ST). Drive 0.2
+						mile(s) ~ < 1 minute.</Instruction>
+					<distance value="0.232192" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn left on SCHOOL ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.061143" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn left on VANNER ST. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.03941" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn right on HERITAGE CIR. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.093648" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Turn left on RIVER DR. Drive < 0.1 mile(s) ~ < 1
+						minute.</Instruction>
+					<distance value="0.082808" />
+				</RouteInstruction>
+				<RouteInstruction duration="PT0H0M" description="Overview">
+					<Instruction>Arrive at Destination.</Instruction>
+					<distance value="0.0" />
+				</RouteInstruction>
+			</RouteInstructionsList>
+			<RouteMap description="Overview">
+				<Content format="png8" width="400" height="400">
+					<URL>http://www.arcwebservices.com/output/TA_ArcWeb_US_ARCWEB21852319621.png</URL>
+				</Content>
+				<BBoxContext>
+					<gml:pos>-71.504088 41.75474</gml:pos>
+					<gml:pos>-71.434353 41.80911</gml:pos>
+				</BBoxContext>
+			</RouteMap>
+		</DetermineRouteResponse>
+	</Response>
+</XLS>

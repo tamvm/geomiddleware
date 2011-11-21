@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XLS xmlns="http://www.opengis.net/xls" xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opengis.net/xls LocationUtilityService.xsd"
+	version="1.0">
+	<ResponseHeader />
+	<Response version="1.0" requestID="">
+		<ReverseGeocodeResponse>
+			<ReverseGeocodedLocation>
+				<gml:Point>
+					<gml:pos>-71.514683047917 41.77970003306</gml:pos>
+				</gml:Point>
+				<Address countryCode="US">
+					<StreetAddress>
+						<Street>244 Comstock Pky</Street>
+					</StreetAddress>
+					<Place type="Municipality">Cranston</Place>
+					<Place type="CountrySubdivision">RI</Place>
+					<Place type="CountrySecondarySubdivision">02921</Place>
+				</Address>
+			</ReverseGeocodedLocation>
+		</ReverseGeocodeResponse>
+	</Response>
+</XLS>

@@ -1,0 +1,18 @@
+<slirep ver="3.0.0">
+	<req_id>25267</req_id>
+	<pos>
+		<msid type="IPV6">10:A1:45::23:B7:89</msid>
+		<pd>
+			<time utc_off="+0300">20020813010423</time>
+			<shape>
+				<CircularArea srsName="www.epsg.org#4326">
+					<coord>
+						<X>35 03 28.244N</X>
+						<Y>135 47 08.711E</Y>
+					</coord>
+					<radius>15</radius>
+				</CircularArea>
+			</shape>
+		</pd>
+	</pos>
+</slirep> 
